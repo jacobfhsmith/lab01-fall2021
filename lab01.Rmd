@@ -1,6 +1,6 @@
 ---
 title: "Lab 01 - Hello R!"
-subtitle: "due [date] 11:59 PM "
+subtitle: "due Tuesday August 31 at 11:59 PM "
 author: ""
 date: ""
 editor_options: 
